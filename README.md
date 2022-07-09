@@ -72,7 +72,9 @@ If no recognized module system is present, access bundle contents via the global
 ```html
 <script type="text/javascript">
 (function () {
+(function () {
     window.logpdf;
+})();
 })();
 </script>
 ```
@@ -155,6 +157,7 @@ y = mylogpdf( 5.0 );
 <script type="text/javascript" src="https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-cauchy-logpdf@umd/browser.js"></script>
 <script type="text/javascript">
 (function () {
+(function () {
 
 var gamma;
 var x0;
@@ -170,6 +173,7 @@ for ( i = 0; i < 10; i++ ) {
     console.log( 'x: %d, x0: %d, γ: %d, ln(f(x;x0,γ)): %d', x.toFixed(4), x0.toFixed(4), gamma.toFixed(4), y.toFixed(4) );
 }
 
+})();
 })();
 </script>
 </body>
