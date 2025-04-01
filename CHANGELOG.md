@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-03-24)
+## Unreleased (2025-04-01)
 
 <section class="features">
 
@@ -34,6 +34,7 @@ A total of 2 issues were closed in this release:
 
 <details>
 
+-   [`a1e230f`](https://github.com/stdlib-js/stdlib/commit/a1e230f29297caa89880e9c194c615a0400fb7bc) - **chore:** clean up cppcheck-suppress comments _(by Karan Anand)_
 -   [`0d8ee45`](https://github.com/stdlib-js/stdlib/commit/0d8ee45ff4534afb9911179c06b3134934dcf640) - **chore:** address commit comments [(#5461)](https://github.com/stdlib-js/stdlib/pull/5461) _(by Harsh)_
 -   [`dd65185`](https://github.com/stdlib-js/stdlib/commit/dd651854fb03fab5e38823675d5a66d5a439628c) - **feat:** add C implementation of `stats/base/dists/cauchy/logpdf` [(#4416)](https://github.com/stdlib-js/stdlib/pull/4416) _(by Vinit Pandit, stdlib-bot, Philipp Burckhardt)_
 -   [`f2d2150`](https://github.com/stdlib-js/stdlib/commit/f2d21507493d82265ec30daa3aa00a0829e902c9) - **bench:** refactor random number generation in `stats/base/dists/cauchy` [(#4850)](https://github.com/stdlib-js/stdlib/pull/4850) _(by Karan Anand)_
