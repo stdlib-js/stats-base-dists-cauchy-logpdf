@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-05-04)
+## Unreleased (2025-05-08)
 
 <section class="features">
 
@@ -34,6 +34,7 @@ A total of 2 issues were closed in this release:
 
 <details>
 
+-   [`f025bc3`](https://github.com/stdlib-js/stdlib/commit/f025bc39e4761a1c7dee8bf781581b75868b3a89) - **bench:** update random value generation [(#6954)](https://github.com/stdlib-js/stdlib/pull/6954) _(by Harsh)_
 -   [`28f64ec`](https://github.com/stdlib-js/stdlib/commit/28f64ec05e56db3e8836cfcdfd45e27a53eda4bf) - **docs:** replace manual `for` loop in examples [(#6918)](https://github.com/stdlib-js/stdlib/pull/6918) _(by Harsh)_
 -   [`a1e230f`](https://github.com/stdlib-js/stdlib/commit/a1e230f29297caa89880e9c194c615a0400fb7bc) - **chore:** clean up cppcheck-suppress comments _(by Karan Anand)_
 -   [`0d8ee45`](https://github.com/stdlib-js/stdlib/commit/0d8ee45ff4534afb9911179c06b3134934dcf640) - **chore:** address commit comments [(#5461)](https://github.com/stdlib-js/stdlib/pull/5461) _(by Harsh)_
