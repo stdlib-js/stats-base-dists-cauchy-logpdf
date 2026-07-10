@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-06-11)
+## Unreleased (2026-07-10)
 
 <section class="commits">
 
@@ -12,6 +12,7 @@
 
 <details>
 
+-   [`2180fed`](https://github.com/stdlib-js/stdlib/commit/2180fed844c032e1dd39b8465fa44d934b3d94fc) - **docs:** add link [(#13406)](https://github.com/stdlib-js/stdlib/pull/13406) _(by Philipp Burckhardt)_
 -   [`cae5335`](https://github.com/stdlib-js/stdlib/commit/cae53357950b4c389b0020878c268995cd79d222) - **docs:** propagate develop fixes to sibling packages [(#12736)](https://github.com/stdlib-js/stdlib/pull/12736) _(by Philipp Burckhardt)_
 -   [`0a5fc6c`](https://github.com/stdlib-js/stdlib/commit/0a5fc6c32eaf8c2efa5f466c33a71c99666db61e) - **refactor:** order validation checks by parameter position in `stats/base/dists/cauchy/*` [(#11942)](https://github.com/stdlib-js/stdlib/pull/11942) _(by Philipp Burckhardt)_
 -   [`6a4d961`](https://github.com/stdlib-js/stdlib/commit/6a4d9614841138f791bfad6fc7d694dffff81a6c) - **docs:** propagate recent doc fixes across `stats/base/dists/*` [(#11815)](https://github.com/stdlib-js/stdlib/pull/11815) _(by Philipp Burckhardt)_
