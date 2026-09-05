@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-07-26)
+## Unreleased (2026-09-05)
 
 <section class="commits">
 
@@ -12,6 +12,7 @@
 
 <details>
 
+-   [`67c4846`](https://github.com/stdlib-js/stdlib/commit/67c4846c9a91051e0c1a964272242f6896695c6e) - **test:** migrate `stats/base/dists/cauchy/logpdf` to ULP-based assertions [(#14989)](https://github.com/stdlib-js/stdlib/pull/14989) _(by Athan Reines)_
 -   [`2180fed`](https://github.com/stdlib-js/stdlib/commit/2180fed844c032e1dd39b8465fa44d934b3d94fc) - **docs:** add link [(#13406)](https://github.com/stdlib-js/stdlib/pull/13406) _(by Philipp Burckhardt)_
 -   [`cae5335`](https://github.com/stdlib-js/stdlib/commit/cae53357950b4c389b0020878c268995cd79d222) - **docs:** propagate develop fixes to sibling packages [(#12736)](https://github.com/stdlib-js/stdlib/pull/12736) _(by Philipp Burckhardt)_
 -   [`0a5fc6c`](https://github.com/stdlib-js/stdlib/commit/0a5fc6c32eaf8c2efa5f466c33a71c99666db61e) - **refactor:** order validation checks by parameter position in `stats/base/dists/cauchy/*` [(#11942)](https://github.com/stdlib-js/stdlib/pull/11942) _(by Philipp Burckhardt)_
@@ -28,8 +29,9 @@
 
 ### Contributors
 
-A total of 2 people contributed to this release. Thank you to the following contributors:
+A total of 3 people contributed to this release. Thank you to the following contributors:
 
+-   Athan Reines
 -   Philipp Burckhardt
 -   Vishal Gaikwad
 
